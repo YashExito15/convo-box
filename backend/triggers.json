@@ -1,0 +1,39 @@
+[
+  {
+    "id": 4,
+    "name": "Yash",
+    "template": "Good",
+    "messageType": "Interactive",
+    "interactiveType": "Button",
+    "header": "Help Center",
+    "body": "Thanks for contacting us. How may I help you?",
+    "button": "Need Help?",
+    "triggerPhrases": "",
+    "phonenumber": "+9225563040"
+  },
+  {
+    "id": 1,
+    "name": "Yash",
+    "template": "Good",
+    "messageType": "Interactive",
+    "interactiveType": "Button",
+    "header": "Help Center",
+    "body": "Thanks for contacting us. How may I help you?",
+    "button": "Need Help?",
+    "triggerPhrases": "",
+    "phonenumber": "+9225563040"
+  },
+  {
+    "id": 2,
+    "name": "Welcome Message",
+    "type": "Text",
+    "template": "Flow 1",
+    "messageType": "Type 1",
+    "interactiveType": "Button",
+    "header": "Help Center",
+    "body": "Thanks for contacting us. How may I help you?",
+    "button": "Need Help?",
+    "triggerPhrases": "",
+    "phoneNumber": "+919225563040"
+  }
+]
